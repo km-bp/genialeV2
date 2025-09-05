@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Noto Sans';
-  src: url("/font/NotoSans-Bold.ttf");
+  src: url("font/NotoSans-Bold.ttf");
   font-weight: 700;
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("/font/NotoSans-Black.ttf");
+  src: url("font/NotoSans-Black.ttf");
   font-weight: 900;
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("/font/NotoSans-Regular.ttf");
+  src: url("font/NotoSans-Regular.ttf");
   font-weight: 400;
 }
 @font-face {
@@ -20,12 +20,12 @@
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("/font/NotoSans-SemiBold.ttf");
+  src: url("font/NotoSans-SemiBold.ttf");
   font-weight: 600;
 }
 @font-face {
   font-family: 'Noto Sans';
-  src: url("/font/NotoSans-ExtraBold.ttf");
+  src: url("font/NotoSans-ExtraBold.ttf");
   font-weight: 800;
 }
 
@@ -103,7 +103,7 @@ section {
 
 .gradient-canvas {
     position: absolute;
-    background-image: url("/assets/Farbhintergründe_Zeichenfläche\ 1-02.jpg");
+    background-image: url("assets/Farbhintergründe_Zeichenfläche\ 1-02.jpg");
     background-position: 50%;
     background-size: cover;
     top: 0;
